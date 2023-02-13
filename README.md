@@ -15,7 +15,7 @@ This execise makes use og VS Code and the GitHub CLI `gh`. The very first thing 
 
 If you are working in a GitHub CodeSpace it may just work out of the box. If you are in VC Code on your PC you need to install it. 
 
-- [ ] Test if `gh`is properly installed by running the command below:
+- [x] Test if `gh`is properly installed by running the command below:
 
 ```
 gh auth status
