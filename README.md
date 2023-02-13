@@ -27,9 +27,9 @@ gh auth status
 
 # Import issues from template repository
 
-- [ ] Accept the assigmenet you were given in GitHub Classroom
-- [ ] Open the repo in a GitHub CodeSpace (or in VS Code on your PC)
-- [ ] Run the script that will copy the template issues from the template repository to your own.
+- [x] Accept the assigmenet you were given in GitHub Classroom
+- [x] Open the repo in a GitHub CodeSpace (or in VS Code on your PC)
+- [x] Run the script that will copy the template issues from the template repository to your own.
 
 - Open a terminal
 - Make sure your working directory is the root of the repository
